@@ -346,6 +346,19 @@
       }
     }
   ],
+  "Hardware": [
+    {
+      "name": "Web Bluetooth",
+      "contact": "",
+      "status": "favorable",
+      "description": "Access user-selected Bluetooth devices over GATT",
+      "urls": {
+        "bugzilla": "",
+        "documentation": "https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web",
+        "specification": "https://webbluetoothcg.github.io/web-bluetooth/"
+      }
+    }
+  ],
   "JavaScript": [
     {
       "name": "Array.prototype.includes",
