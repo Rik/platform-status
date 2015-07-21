@@ -313,14 +313,14 @@
       }
     },
     {
-      "name": "Web Animations JavaScript API",
-      "contact": "",
-      "status": "in progress|favorable|not favorable|no opinion",
-      "description": "",
+      "name": "Web Animations API",
+      "contact": "Brian Birtles <bbirtles@mozilla.com>",
+      "status": "in progress",
+      "description": "Javascript API for inspecting and manipulating CSS animations/transitions and creating new animations",
       "urls": {
-        "bugzilla": "",
-        "documentation": "",
-        "specification": ""
+        "bugzilla": "https://bugzilla.mozilla.org/show_bug.cgi?id=875219",
+        "documentation": "https://developer.mozilla.org/en-US/docs/Web/API/Animation",
+        "specification": "https://w3c.github.io/web-animations/"
       }
     },
     {
