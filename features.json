@@ -371,12 +371,12 @@
     },
     {
       "name": "Classes",
-      "contact": "",
-      "status": "in progress|favorable|not favorable|no opinion",
+      "contact": "Eric Faust <efaustbmo@gmail.com>",
+      "status": "in progress",
       "description": "",
       "urls": {
-        "bugzilla": "",
-        "documentation": "",
+        "bugzilla": "https://bugzilla.mozilla.org/show_bug.cgi?id=837314",
+        "documentation": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes",
         "specification": ""
       }
     }
