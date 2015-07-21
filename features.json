@@ -313,7 +313,7 @@
       }
     },
     {
-      "name": "Web Animations Javascript API",
+      "name": "Web Animations JavaScript API",
       "contact": "Brian Birtles <bbirtles@mozilla.com>",
       "status": "in progress",
       "description": "Javascript API for inspecting and manipulating CSS animations/transitions and creating new animations",
