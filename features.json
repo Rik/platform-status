@@ -654,6 +654,17 @@
         "specification": ""
       }
     }
+    {
+      "name": "Frame Timining",
+      "contact": "Hiroyuki Ikezoe <hiikezoe@mozilla-japan.org>",
+      "status": "in progress",
+      "description": "Javascript API for inspecting and manipulating CSS animations/transitions and creating new animations",
+      "urls": {
+        "bugzilla": "https://bugzilla.mozilla.org/show_bug.cgi?id=1158032",
+        "documentation": "An interface to help web developers measure the performance of their applications by giving them access to frame performance data to facilitate smoothness (i.e. Frames per Second and Time to Frame) measurements",
+        "specification": "https://w3c.github.io/frame-timing/"
+      }
+    },
   ],
   "Realtime / Communication": [
     {
