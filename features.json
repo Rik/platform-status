@@ -1,6 +1,7 @@
 {
   "CSS": [
     {
+      "id":"css-deviceadaptation",
       "name": "CSS Device Adaptation",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -12,6 +13,7 @@
       }
     },
     {
+      "id":"css-intrinsic-sizing",
       "name": "CSS Intrinsic Sizing",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -23,6 +25,7 @@
       }
     },
     {
+      "id":"css-logical-props-1",
       "name": "CSS Logical Properties Level 1",
       "contact": "",
       "status": "in progress",
@@ -34,6 +37,7 @@
       }
     },
     {
+      "id":"css-filter-function",
       "name": "CSS filter() image function",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -45,6 +49,7 @@
       }
     },
     {
+      "id":"css-custom-filters",
       "name": "Custom filters (shaders)",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -56,6 +61,7 @@
       }
     },
     {
+      "id":"css-gcpm",
       "name": "Generated Content for Paged Media",
       "contact": "L. David Baron <dbaron@dbaron.org>",
       "status": "not favorable",
@@ -67,6 +73,7 @@
       }
     },
     {
+      "id":"css-multicolumn",
       "name": "Multi-column (full support)",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -78,6 +85,7 @@
       }
     },
     {
+      "id":"css-shapes",
       "name": "Shapes",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -89,6 +97,7 @@
       }
     },
     {
+      "id":"css-grid-1",
       "name": "CSS Grid Layout Level 1",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -100,6 +109,7 @@
       }
     },
     {
+      "id":"css-mediaqueries-4",
       "name": "CSS Media Queries Level 4",
       "contact": "L. David Baron <dbaron@dbaron.org>",
       "status": "favorable",
@@ -111,6 +121,7 @@
       }
     },
     {
+      "id":"css-position-3",
       "name": "CSS Positioned Layout Module Level 3",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -122,6 +133,7 @@
       }
     },
     {
+      "id":"css-any-link",
       "name": "CSS Selector :any-link",
       "contact": "L. David Baron <dbaron@dbaron.org>",
       "status": "favorable",
@@ -133,6 +145,7 @@
       }
     },
     {
+      "id":"css-lang-4",
       "name": "CSS Selector :lang() level 4",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -144,6 +157,7 @@
       }
     },
     {
+      "id":"css-matches-pseudo",
       "name": "CSS Selector :matches()",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -155,6 +169,7 @@
       }
     },
     {
+      "id":"css-not-4",
       "name": "CSS Selector :not() level 4",
       "contact": "L. David Baron <dbaron@dbaron.org>",
       "status": "favorable",
@@ -166,6 +181,7 @@
       }
     },
     {
+      "id":"css-nth-child-of",
       "name": "CSS Selector :nth-child(An+B of selector list) and :nth-last-child(An+B of selector list)",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -177,6 +193,7 @@
       }
     },
     {
+      "id":"css-placeholder-shown",
       "name": "CSS Selector :placeholder-shown",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -188,6 +205,7 @@
       }
     },
     {
+      "id":"css-shapes-1",
       "name": "CSS Shapes Level 1",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -199,6 +217,7 @@
       }
     },
     {
+      "id":"css-case-attr",
       "name": "Case-insensitive attribute selectors",
       "contact": "L. David Baron <dbaron@dbaron.org>",
       "status": "in progress",
@@ -210,6 +229,7 @@
       }
     },
     {
+      "id":"css-box-align",
       "name": "CSS Box Alignment",
       "contact": "L. David Baron <dbaron@dbaron.org>",
       "status": "favorable",
@@ -221,6 +241,7 @@
       }
     },
     {
+      "id":"css-exclusions",
       "name": "CSS Exclusions",
       "contact": "L. David Baron <dbaron@dbaron.org>",
       "status": "favorable",
@@ -232,6 +253,7 @@
       }
     },
     {
+      "id":"css-masks",
       "name": "CSS Masks",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -243,6 +265,7 @@
       }
     },
     {
+      "id":"css-regions",
       "name": "CSS Regions",
       "contact": "L. David Baron <dbaron@dbaron.org>",
       "status": "not favorable",
@@ -256,6 +279,7 @@
   ],
   "File APIs": [
     {
+      "id":"dnd-directories",
       "name": "Drag and Drop Directories",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -267,6 +291,7 @@
       }
     },
     {
+      "id":"streams",
       "name": "Streams API",
       "contact": "Ben Kelly (@wanderview)",
       "status": "favorable",
@@ -278,6 +303,7 @@
       }
     },
     {
+      "id":"file-writer",
       "name": "FileWriter",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -291,6 +317,7 @@
   ],
   "Graphics": [
     {
+      "id":"canvas-text-deco",
       "name": "Canvas2D text decoration",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -302,6 +329,7 @@
       }
     },
     {
+      "id":"svg-2",
       "name": "SVG2",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -313,6 +341,7 @@
       }
     },
     {
+      "id":"web-animations",
       "name": "Web Animations JavaScript API",
       "contact": "Brian Birtles <bbirtles@mozilla.com>",
       "status": "in progress",
@@ -324,6 +353,7 @@
       }
     },
     {
+      "id":"webgl-2",
       "name": "WebGL2 (Canvas 3D)",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -335,6 +365,7 @@
       }
     },
     {
+      "id":"webp",
       "name": "WebP image format support",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -348,6 +379,7 @@
   ],
   "JavaScript": [
     {
+      "id":"array-includes",
       "name": "Array.prototype.includes",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -359,6 +391,7 @@
       }
     },
     {
+      "id":"simd",
       "name": "SIMD (ES7)",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -370,6 +403,7 @@
       }
     },
     {
+      "id":"es-classes",
       "name": "Classes",
       "contact": "Eric Faust <efaustbmo@gmail.com>",
       "status": "in progress",
@@ -383,6 +417,7 @@
   ],
   "Misc": [
     {
+      "id":"details-summary",
       "name": "<details>/<summary>",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -394,6 +429,7 @@
       }
     },
     {
+      "id":"form-http-extensions",
       "name": "HTML Form HTTP Extensions",
       "contact": "annevk (how did this arrive on this list?)",
       "status": "nope",
@@ -405,6 +441,7 @@
       }
     },
     {
+      "id":"webdriver",
       "name": "WebDriver",
       "contact": "David Burns <automatedtester@mozilla.com>",
       "status": "in progress",
@@ -416,6 +453,7 @@
       }
     },
     {
+      "id":"iframe-seamless",
       "name": "iframe[seamless] attribute",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -429,6 +467,7 @@
   ],
   "Multimedia": [
     {
+      "id":"audiotracks",
       "name": "Audio tracks",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -440,6 +479,7 @@
       }
     },
     {
+      "id":"eme-drm",
       "name": "Encrypted Media Extensions",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -451,6 +491,7 @@
       }
     },
     {
+      "id":"hls",
       "name": "HTTP Live Streaming (HLS)",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -462,6 +503,7 @@
       }
     },
     {
+      "id":"mediasource",
       "name": "Media Source Extensions",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -473,6 +515,7 @@
       }
     },
     {
+      "id":"mediarecorder",
       "name": "MediaRecorder",
       "contact": "mreavy@mozilla.com",
       "status": "done",
@@ -484,6 +527,7 @@
       }
     },
     {
+      "id":"quota-mgmt",
       "name": "Quota Management API",
       "contact": "annevk (we want storage.spec.whatwg.org)",
       "status": "nope",
@@ -495,6 +539,7 @@
       }
     },
     {
+      "id":"track-elem",
       "name": "Track element",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -506,6 +551,7 @@
       }
     },
     {
+      "id":"videotracks",
       "name": "Video tracks",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -517,6 +563,7 @@
       }
     },
     {
+      "id":"web-midi",
       "name": "Web MIDI API",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -528,6 +575,7 @@
       }
     },
     {
+      "id":"web-sql",
       "name": "Web SQL Database",
       "contact": "annevk (why is this on the list even?)",
       "status": "nope",
@@ -539,6 +587,7 @@
       }
     },
     {
+      "id":"speech-recognition",
       "name": "Web Speech API (input)",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -550,6 +599,7 @@
       }
     },
     {
+      "id":"speech-synthesis",
       "name": "Web Speech API (synthesis)",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -561,6 +611,7 @@
       }
     },
     {
+      "id":"hardwareconcurrency",
       "name": "navigator.hardwareConcurrency",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -572,6 +623,7 @@
       }
     },
     {
+      "id":"capturestream",
       "name": "Media Capture from HTML",
       "contact": "mreavy",
       "status": "in progress",
@@ -585,6 +637,7 @@
   ],
   "Network / Connectivity": [
     {
+      "id":"http-client-hints",
       "name": "HTTP Client Hints",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -596,6 +649,7 @@
       }
     },
     {
+      "id":"presentation-api",
       "name": "Presentation API",
       "contact": "schien",
       "status": "in progress",
@@ -609,6 +663,7 @@
   ],
   "Offline / Storage": [
     {
+      "id":"serviceworkers",
       "name": "Service Worker",
       "contact": "Ben Kelly (@wanderview)",
       "status": "in progress",
@@ -622,6 +677,7 @@
   ],
   "Performance": [
     {
+      "id":"nav-err-log",
       "name": "Navigation Error Logging",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -633,6 +689,7 @@
       }
     },
     {
+      "id":"link-rel-prerender",
       "name": "Prerender attribute",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -644,6 +701,7 @@
       }
     },
     {
+      "id":"resource-priorities",
       "name": "Resource Priorities",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -655,6 +713,7 @@
       }
     }
     {
+      "id":"frame-timing",
       "name": "Frame Timining",
       "contact": "Hiroyuki Ikezoe <hiikezoe@mozilla-japan.org>",
       "status": "in progress",
@@ -668,6 +727,7 @@
   ],
   "Realtime / Communication": [
     {
+      "id":"webrtc",
       "name": "WebRTC – Object RTC API",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -681,6 +741,7 @@
   ],
   "Security": [
     {
+      "id":"sri",
       "name": "Subresource Integrity",
       "contact": "Francois Marier <fmarier@mozilla.com>, Frederik Braun <fbraun@mozilla.com>",
       "status": "in progress",
@@ -692,6 +753,7 @@
       }
     },
     {
+      "id":"crypto",
       "name": "Web Crypto API",
       "contact": "",
       "status": "done",
@@ -705,6 +767,7 @@
   ],
   "User input": [
     {
+      "id":"pointer",
       "name": "Pointer events",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -716,6 +779,7 @@
       }
     },
     {
+      "id":"dialog",
       "name": "<dialog> element for modals",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -727,6 +791,7 @@
       }
     },
     {
+      "id":"css-touch-action",
       "name": "CSS touch-action",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -738,6 +803,7 @@
       }
     },
     {
+      "id":"ime-api",
       "name": "IME API",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -749,6 +815,7 @@
       }
     },
     {
+      "id":"inputmode",
       "name": "inputmode",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -760,6 +827,7 @@
       }
     },
     {
+      "id":"input-date",
       "name": "Date related input types",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -771,6 +839,7 @@
       }
     },
     {
+      "id":"input-time",
       "name": "Time related input types",
       "contact": "",
       "status": "in progress|favorable|not favorable|no opinion",
@@ -784,6 +853,7 @@
   ],
   "Web Components": [
     {
+      "id":"custom-elements",
       "name": "Custom Elements",
       "contact": "annevk",
       "status": "planned, details to be sorted",
@@ -795,6 +865,7 @@
       }
     },
     {
+      "id":"html-imports",
       "name": "HTML Imports",
       "contact": "annevk",
       "status": "nope",
@@ -806,6 +877,7 @@
       }
     },
     {
+      "id":"shadowdom",
       "name": "Shadow DOM (unprefixed)",
       "contact": "annevk",
       "status": "planned, details to be sorted",
