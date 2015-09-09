@@ -205,18 +205,6 @@
       }
     },
     {
-      "id":"css-shapes-1",
-      "name": "CSS Shapes Level 1",
-      "contact": "",
-      "status": "in progress|favorable|not favorable|no opinion",
-      "description": "",
-      "urls": {
-        "bugzilla": "",
-        "documentation": "",
-        "specification": ""
-      }
-    },
-    {
       "id":"css-case-attr",
       "name": "Case-insensitive attribute selectors",
       "contact": "L. David Baron <dbaron@dbaron.org>",
