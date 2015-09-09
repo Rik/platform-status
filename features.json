@@ -714,7 +714,7 @@
     }
     {
       "id":"frame-timing",
-      "name": "Frame Timining",
+      "name": "Frame Timing",
       "contact": "Hiroyuki Ikezoe <hiikezoe@mozilla-japan.org>",
       "status": "in progress",
       "description": "Javascript API for inspecting and manipulating CSS animations/transitions and creating new animations",
