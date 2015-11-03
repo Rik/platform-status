@@ -692,6 +692,17 @@
       }
     },
     {
+      "name": "FIDO Alliance U2F JavaScript API",
+      "contact": "",
+      "status": "in progress|favorable|not favorable|no opinion",
+      "description": "Authenticate with Universal 2nd Factor (U2F) USB hardware",
+      "urls": {
+        "bugzilla": "https://bugzilla.mozilla.org/show_bug.cgi?id=1065729",
+        "documentation": "",
+        "specification": "https://fidoalliance.org/specs/fido-u2f-javascript-api-v1.0-rd-20140209.pdf"
+      }
+    },
+    {
       "name": "Web Crypto API",
       "contact": "",
       "status": "done",
